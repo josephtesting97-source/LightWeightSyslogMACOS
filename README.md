@@ -1,6 +1,6 @@
 # LightweightSyslog
 
-A lightweight tool that logs basic system metrics on MacOS at regular intervals and optionally runs as a user-level systemd service.
+A lightweight tool that logs basic system metrics on MacOS at regular intervals and optionally runs as a user-level launchd service.
 
 Features
 Logs system uptime, CPU usage, and memory usage.
